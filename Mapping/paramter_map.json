@@ -1,0 +1,52 @@
+[
+    {
+        "ds_relative_url" : "tihormishra/Azure-Retail-Project/refs/heads/main/Datasets/AdventureWorks_Products.csv",
+        "dynamic_folder_adls_ds" :"Products",
+        "dynamic_file_name_ds" :"products.csv"
+    },
+    {
+        "ds_relative_url" : "tihormishra/Azure-Retail-Project/refs/heads/main/Datasets/AdventureWorks_Calendar.csv",
+        "dynamic_folder_adls_ds" :"Calendar",
+        "dynamic_file_name_ds" :"calendar.csv"
+    },
+    {
+        "ds_relative_url" : "tihormishra/Azure-Retail-Project/refs/heads/main/Datasets/AdventureWorks_Customers.csv",
+        "dynamic_folder_adls_ds" :"Customers",
+        "dynamic_file_name_ds" :"customer.csv"
+    },
+    {
+        "ds_relative_url" : "tihormishra/Azure-Retail-Project/refs/heads/main/Datasets/AdventureWorks_Product_Categories.csv",
+        "dynamic_folder_adls_ds" :"Categories",
+        "dynamic_file_name_ds" :"product_categories.csv"
+    },
+    {
+        "ds_relative_url" : "tihormishra/Azure-Retail-Project/refs/heads/main/Datasets/AdventureWorks_Product_Subcategories.csv",
+        "dynamic_folder_adls_ds" :"Sub_categories",
+        "dynamic_file_name_ds" :"product_sub_categories.csv"
+    },
+    {
+        "ds_relative_url" : "tihormishra/Azure-Retail-Project/refs/heads/main/Datasets/AdventureWorks_Returns.csv",
+        "dynamic_folder_adls_ds" :"Returns",
+        "dynamic_file_name_ds" :"returns.csv"
+    },
+    {
+        "ds_relative_url" : "tihormishra/Azure-Retail-Project/refs/heads/main/Datasets/AdventureWorks_Sales_2015.csv",
+        "dynamic_folder_adls_ds" :"AdventureWorks_Sales_2015",
+        "dynamic_file_name_ds" :"Sales_2015.csv"
+    },
+    {
+        "ds_relative_url" : "tihormishra/Azure-Retail-Project/refs/heads/main/Datasets/AdventureWorks_Sales_2016.csv",
+        "dynamic_folder_adls_ds" :"AdventureWorks_Sales_2016",
+        "dynamic_file_name_ds" :"Sales_2016.csv"
+    },
+    {
+        "ds_relative_url" : "tihormishra/Azure-Retail-Project/refs/heads/main/Datasets/AdventureWorks_Sales_2017.csv",
+        "dynamic_folder_adls_ds" :"AdventureWorks_Sales_2017",
+        "dynamic_file_name_ds" :"calendar.csv"
+    },
+    {
+        "ds_relative_url" : "tihormishra/Azure-Retail-Project/refs/heads/main/Datasets/AdventureWorks_Territories.csv",
+        "dynamic_folder_adls_ds" :"Territories",
+        "dynamic_file_name_ds" :"territiories.csv"
+    }
+]
